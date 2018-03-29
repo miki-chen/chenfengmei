@@ -3,6 +3,14 @@
     "img": "./static/imgs/qrcode.png"
   },
   "swiper": [
+    {
+      "link": "baidu.com",
+      "img": "http://static.ydcss.com/uploads/ydui/2.jpg"
+    },
+    {
+      "link": "baidu.com",
+      "img": "http://static.ydcss.com/uploads/ydui/2.jpg"
+    }
   ],
   "tabs": [{
     "name": "全部列表",
@@ -91,3 +99,4 @@
   ],
   "footerInfo": "商务合作方式：13466581111     QQ群：239026794"
 }
+
