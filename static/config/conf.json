@@ -5,10 +5,6 @@
   "swiper": [
     {
       "link": "baidu.com",
-      "img": "./static/imgs/2.png"
-    },
-    {
-      "link": "baidu.com",
       "img": "http://static.ydcss.com/uploads/ydui/2.jpg"
     }
   ],
