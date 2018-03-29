@@ -5,7 +5,10 @@
   "swiper": [
     {
       "link": "baidu.com",
-      "img": "http://static.ydcss.com/uploads/ydui/2.jpg"
+      "img": "./static/imgs/1.png"
+    },{
+      "link": "baidu.com",
+      "img": "data:image/png;base64,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"
     },
     {
       "link": "baidu.com",
@@ -39,7 +42,7 @@
     }, {
       "name": "全部列表测试",
       "logo": "./static/imgs/LOGO.png",
-      "detail": "让我们共创顶级全球化语音AI解决方案们共创顶级全球化语音AI……"
+      "detail": "小美测试……"
     }, {
       "name": "全部列表测试",
       "logo": "./static/imgs/LOGO.png",
@@ -84,7 +87,32 @@
       "iosLink": "baidu.com",
       "androidLink": "google.com"
     }]
-  }, {
+  }, 
+  {
+    "name": "测试tab",
+    "topDownload": [
+      {
+        "link": "javascript:;",
+        "img": "./static/imgs/top-download.png"
+      },
+      {
+        "link": "javascript:;",
+        "img": "./static/imgs/top-download.png"
+      },
+      {
+        "link": "javascript:;",
+        "img": "./static/imgs/top-download.png"
+      }
+    ],
+    "list": [{
+      "name": "排行榜测试",
+      "logo": "./static/imgs/LOGO.png",
+      "detail": "让我们共创顶级全球化语音AI解决方案们共创顶级全球化语音AI……",
+      "iosLink": "baidu.com",
+      "androidLink": "google.com"
+    }]
+  },
+  {
     "name": "下载送币"
   }],
   "footerImg": "./static/imgs/footer.png",
