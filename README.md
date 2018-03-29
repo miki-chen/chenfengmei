@@ -1,3 +1,4 @@
+```
 {
   "rightQrcode": {
     "img": "./static/imgs/qrcode.png"  // 右侧二维码
@@ -77,4 +78,4 @@
   ],
   "footerInfo": "商务合作方式：13466581111     QQ群：239026794" // 最底部文字
 }
-
+``` 
