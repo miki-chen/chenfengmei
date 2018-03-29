@@ -86,7 +86,32 @@
       "iosLink": "baidu.com",
       "androidLink": "google.com"
     }]
-  }, {
+  }, 
+  {
+    "name": "测试tab",
+    "topDownload": [
+      {
+        "link": "javascript:;",
+        "img": "./static/imgs/top-download.png"
+      },
+      {
+        "link": "javascript:;",
+        "img": "./static/imgs/top-download.png"
+      },
+      {
+        "link": "javascript:;",
+        "img": "./static/imgs/top-download.png"
+      }
+    ],
+    "list": [{
+      "name": "排行榜测试",
+      "logo": "./static/imgs/LOGO.png",
+      "detail": "让我们共创顶级全球化语音AI解决方案们共创顶级全球化语音AI……",
+      "iosLink": "baidu.com",
+      "androidLink": "google.com"
+    }]
+  },
+  {
     "name": "下载送币"
   }],
   "footerImg": "./static/imgs/footer.png",
