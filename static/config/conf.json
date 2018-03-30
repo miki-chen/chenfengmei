@@ -3,10 +3,7 @@
     "img": "./static/imgs/qrcode.png"
   },
   "swiper": [
-    {
-      "link": "baidu.com",
-      "img": "http://static.ydcss.com/uploads/ydui/2.jpg"
-    },
+    
     {
       "link": "baidu.com",
       "img": "http://static.ydcss.com/uploads/ydui/2.jpg"
