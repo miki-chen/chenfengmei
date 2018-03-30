@@ -32,6 +32,13 @@
       "cornerImg": "./static/imgs/corner.png",
       "androidImg": "./static/imgs/qrcode.png",
       "iosImg": "./static/imgs/qrcode.png"
+    },{
+      "name": "火币网",
+      "logo": "./static/imgs/huobi.png",
+      "detail": "支持人民币比特币交易平台",
+      "cornerImg": "./static/imgs/corner.png",
+      "androidImg": "./static/imgs/qrcode.png",
+      "iosImg": "./static/imgs/qrcode.png"
     }, {
       "name": "全部列表测试",
       "logo": "./static/imgs/LOGO.png",
