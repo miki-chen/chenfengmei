@@ -92,6 +92,27 @@
     }]
   }, {
      "name": "下载送币"
+    "list": [{
+      "name": "FCC数字货币预测",
+      "logo": "http://pic.caigoubao.cc/600038/1logo.png",
+      "detail": "无需现金投入，即可预测股票，数字货币价格，预测越准确，挣得越多",
+      "cornerImg": "http://pic.caigoubao.cc/600038/Rectangle%2012@3x.png",
+      "androidImg": "http://pic.caigoubao.cc/600038/1%E4%BA%8C%E7%BB%B4%E7%A0%81.png",
+      "iosImg": "http://pic.caigoubao.cc/600038/1%E4%BA%8C%E7%BB%B4%E7%A0%81.png"
+    }, {
+      "name": "共享网络链",
+      "logo": "http://pic.caigoubao.cc/600038/2logo.jpg",
+      "detail": "通过用户流量数据，使用重构用户手机端流量数据网络生态",
+      "cornerImg": "http://pic.caigoubao.cc/600038/Rectangle%2012%20Copy@3x.png",
+      "androidImg": "http://pic.caigoubao.cc/600038/2%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg",
+      "iosImg": "http://pic.caigoubao.cc/600038/2%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg"
+    }, {
+       "name": "POCoin",
+      "logo": "http://pic.caigoubao.cc/600038/3logo.jpg",
+      "detail": "去中心化人工智能数据网络，拍照即可挖矿",
+      "cornerImg": "http://pic.caigoubao.cc/600038/Rectangle%2012%20Copy%202@2x.png",
+      "androidImg": "http://pic.caigoubao.cc/600038/3%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg",
+      "iosImg": "http://pic.caigoubao.cc/600038/3%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg"
   }],
   "footerImg": "./static/imgs/footer.png",
   "qrcodes": [
