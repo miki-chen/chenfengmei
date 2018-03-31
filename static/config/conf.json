@@ -68,20 +68,6 @@
     }]
   }, {
     "name": "排行榜",
-    "topDownload": [
-      {
-        "link": "https://www.pgyer.com/h85v",
-        "img": "http://pic.caigoubao.cc/600038/ph2@2x.png"
-      },
-      {
-        "link": "https://www.pgyer.com/h85v",
-        "img": "http://pic.caigoubao.cc/600038/ph1@2x.png"
-      },
-      {
-        "link": "https://www.pgyer.com/tdcios",
-        "img": "http://pic.caigoubao.cc/600038/ph3@2x.png"
-      }
-    ],
     "list": [{
       "name": "FCC数字货币预测",
       "logo": "http://pic.caigoubao.cc/600038/1logo.png",
