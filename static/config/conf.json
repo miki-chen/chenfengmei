@@ -5,11 +5,11 @@
   "swiper": [
     {
       "link": "http://www.vochain.world/",
-      "img": "./static/imgs/1bl.jpg"
+      "img": "http://pic.caigoubao.cc/600038/lb1.jpg"
     },
     {
       "link": "http://kuangshanapp.com",
-      "img":  "./static/imgs/1b2.jpg"
+      "img":  "http://pic.caigoubao.cc/600038/lb2.jpg"
     }
   ],
   "tabs": [{
