@@ -64,16 +64,16 @@
     "name": "排行榜",
     "topDownload": [
       {
-        "link": "javascript:;",
-        "img": "./static/imgs/top-download.png"
+        "link": "http://www.vochain.world/",
+        "img": "http://pic.caigoubao.cc/600038/ph1.png"
       },
       {
         "link": "javascript:;",
-        "img": "./static/imgs/top-download.png"
+        "img": "http://pic.caigoubao.cc/600038/ph1.png"
       },
       {
         "link": "javascript:;",
-        "img": "./static/imgs/top-download.png"
+        "img": "http://pic.caigoubao.cc/600038/ph1.png"
       }
     ],
     "list": [{
