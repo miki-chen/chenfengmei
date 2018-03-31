@@ -35,6 +35,8 @@
       "cornerImg": "./static/imgs/corner.png",
       "androidImg": "http://pic.caigoubao.cc/600038/1%E4%BA%8C%E7%BB%B4%E7%A0%81.png",
       "iosImg": "http://pic.caigoubao.cc/600038/1%E4%BA%8C%E7%BB%B4%E7%A0%81.png"
+      "iosLink": "https://www.pgyer.com/fccoin",
+       "androidLink": "https://www.pgyer.com/fccoin",
     }, {
       "name": "全部列表测试",
       "logo": "./static/imgs/LOGO.png",
