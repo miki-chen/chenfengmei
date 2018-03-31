@@ -3,7 +3,10 @@
     "img": "./static/imgs/qrcode.png"
   },
   "swiper": [
-    
+    {
+      "link": "baidu.com",
+      "img": "http://static.ydcss.com/uploads/ydui/2.jpg"
+    },
     {
       "link": "baidu.com",
       "img": "http://static.ydcss.com/uploads/ydui/2.jpg"
@@ -14,7 +17,7 @@
     "topDownload": [
       {
         "link": "javascript:;",
-        "img": "./static/imgs/qq.png"
+        "img": "./static/imgs/top-download.png"
       },
       {
         "link": "javascript:;",
@@ -26,13 +29,6 @@
       }
     ],
     "list": [{
-      "name": "火币网",
-      "logo": "./static/imgs/huobi.png",
-      "detail": "支持人民币比特币交易平台",
-      "cornerImg": "./static/imgs/corner.png",
-      "androidImg": "./static/imgs/qrcode.png",
-      "iosImg": "./static/imgs/qrcode.png"
-    },{
       "name": "火币网",
       "logo": "./static/imgs/huobi.png",
       "detail": "支持人民币比特币交易平台",
@@ -81,12 +77,6 @@
       }
     ],
     "list": [{
-      "name": "排行榜测试",
-      "logo": "./static/imgs/LOGO.png",
-      "detail": "让我们共创顶级全球化语音AI解决方案们共创顶级全球化语音AI……",
-      "iosLink": "baidu.com",
-      "androidLink": "google.com"
-    }{
       "name": "排行榜测试",
       "logo": "./static/imgs/LOGO.png",
       "detail": "让我们共创顶级全球化语音AI解决方案们共创顶级全球化语音AI……",
