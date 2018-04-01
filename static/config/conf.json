@@ -129,14 +129,53 @@
       "iosImg": "http://pic.caigoubao.cc/600038/6%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg"
     }]
   }, {
-     "name": "下载送币"
-    [{
+    "name": "排行榜",
+    "list": [{
+       "name": "VOC语音数据挖币",
+      "logo": "http://pic.caigoubao.cc/600038/5logo_131670384994356172.png",
+      "detail": "我们需要你，一起帮忙74亿人更早实现语音智能",
+      "androidImg": "http://pic.caigoubao.cc/600038/5%E4%BA%8C%E7%BB%B4%E7%A0%81.png",
+      "iosImg": "http://pic.caigoubao.cc/600038/5%E4%BA%8C%E7%BB%B4%E7%A0%81.png"
+     }, {
       "name": "AIM等你来挖币",
       "logo": "http://pic.caigoubao.cc/600038/7logo.jpg",
       "detail": "内容挖矿人工智能大数据，上传照片就能挖矿，你提供大数据社区负责算法",
       "androidImg": "http://pic.caigoubao.cc/600038/7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg",
       "iosImg": "http://pic.caigoubao.cc/600038/7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg"  
-    }],
+     }, {
+      "name": "FCC数字货币预测",
+      "logo": "http://pic.caigoubao.cc/600038/1logo.png",
+      "detail": "无需现金投入，即可预测股票，数字货币价格，预测越准确，挣得越多",
+      "cornerImg": "http://pic.caigoubao.cc/600038/Rectangle%2012@3x.png",
+      "androidImg": "http://pic.caigoubao.cc/600038/1%E4%BA%8C%E7%BB%B4%E7%A0%81.png",
+      "iosImg": "http://pic.caigoubao.cc/600038/1%E4%BA%8C%E7%BB%B4%E7%A0%81.png"
+    }, {
+      "name": "共享网络链",
+      "logo": "http://pic.caigoubao.cc/600038/2logo.jpg",
+      "detail": "通过用户流量数据，使用重构用户手机端流量数据网络生态",
+      "cornerImg": "http://pic.caigoubao.cc/600038/Rectangle%2012%20Copy@3x.png",
+      "androidImg": "http://pic.caigoubao.cc/600038/2%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg",
+      "iosImg": "http://pic.caigoubao.cc/600038/2%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg"
+    }, {
+       "name": "POCoin",
+      "logo": "http://pic.caigoubao.cc/600038/3logo.jpg",
+      "detail": "去中心化人工智能数据网络，拍照即可挖矿",
+      "cornerImg": "http://pic.caigoubao.cc/600038/Rectangle%2012%20Copy%202@2x.png",
+      "androidImg": "http://pic.caigoubao.cc/600038/3%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg",
+      "iosImg": "http://pic.caigoubao.cc/600038/3%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg"
+    }, {
+       "name": "消费链CDC",
+      "logo": "http://pic.caigoubao.cc/600038/4logo.jpg",
+      "detail": "全球首款区块链，账单挖矿小程序，你的数据你做主，你的数据你收益",
+      "androidImg": "http://pic.caigoubao.cc/600038/4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg",
+      "iosImg": "http://pic.caigoubao.cc/600038/4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg"
+    }, {
+       "name": "TDC运动挖矿",
+      "logo": "http://pic.caigoubao.cc/600038/6logo.jpg",
+      "detail": "运动挖矿的挣钱神器",
+      "androidImg": "http://pic.caigoubao.cc/600038/6%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg",
+      "iosImg": "http://pic.caigoubao.cc/600038/6%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg"
+    }]
   "footerImg": "./static/imgs/footer.png",
   "qrcodes": [
     {
